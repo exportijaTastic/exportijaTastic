@@ -2,7 +2,6 @@
 - 👀 I’m interested in cyber sec. and Bastelleien
 - 🌱 I’m currently learning Kotlin, R, more python skills, ... 
 - 📫 How to reach me email, directly here or LinkedIN 
-- ⚡ Fun fact: find out some
 
 <!---
 exportijaTastic/exportijaTastic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
